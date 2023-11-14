@@ -1,0 +1,20 @@
+{
+    :active button
+    
+}
+
+h1{
+    text-size-adjust:brown
+}
+title{
+    color:brown
+}
+button{
+    color:blue
+}
+fePointLight{
+    color:rgb(34, 8, 58)
+}
+#toggle.hover {
+    background-color: brown;
+}
